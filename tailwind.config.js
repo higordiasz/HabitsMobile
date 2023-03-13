@@ -15,7 +15,7 @@ module.exports = {
         bold: 'Inter_700Bold',
         extrabold: 'Inter_800ExtraBold'
       }
-    }
+    },
   },
   plugins: [],
 }
